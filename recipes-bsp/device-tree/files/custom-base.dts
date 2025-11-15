@@ -1,0 +1,8 @@
+/* Custom base device tree for NXP i.MX */
+/dts-v1/;
+
+/ {
+    compatible = "custom,imx";
+    
+    /* Add your device tree nodes here */
+};
